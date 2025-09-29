@@ -5,7 +5,7 @@ This was the first project I made that had an actual map, it helped me learn how
 ## Demo
 ![Gameplay Demo](media/Survivor%20GIF.gif)
 ## Features
- - Single Player Top-Down Shooter
+ - Larger Map
  - Object Collision with Rocks/Trees
  - Enemy/Player Animations
  - Gun with Bullets
