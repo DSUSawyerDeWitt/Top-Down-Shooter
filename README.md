@@ -1,6 +1,6 @@
 # Top-Down Shooter(Python + Pygame-CE)
 A 2D shooter where you can shoot enemies and walk around in a larger map with object collisions, built using **Python** and **Pygame Community Edition**.
-This was the first project I made that had an actual map, it helped me learn how to simlulate a camera, and create/animate players and enemies.
+This was the first project I made that had an actual map, it helped me learn how to simulate a camera, and create/animate players and enemies.
 
 ## Demo
 ![Gameplay Demo](media/Survivor%20GIF.gif)
